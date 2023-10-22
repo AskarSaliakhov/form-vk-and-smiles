@@ -1,20 +1,23 @@
 import Vue from 'vue'
 import App from './App.vue'
-import Multiselect from '@vueform/multiselect/dist/multiselect.vue2.js'
-import Toast,{POSITION} from "vue-toastification";
+import router from "@/router/router";
+import store from "@/store/store";
+import VideoEmbed from "v-video-embed/src";
+import StarRating from 'vue-star-rating'
+import Toast from "vue-toastification";
 import "vue-toastification/dist/index.css";
-import Calendar from 'v-calendar/lib/components/calendar.umd'
-import DatePicker from 'v-calendar/lib/components/date-picker.umd'
 
-
-Vue.use(Multiselect,DatePicker,Calendar)
-
-Vue.use(Toast, {
-    position: POSITION.BOTTOM_LEFT,
-});
+const options={
+    closeOnClick: true,
+    draggable: true
+}
+Vue.use(VideoEmbed,StarRating)
+Vue.use(Toast,options)
 
 Vue.config.productionTip = false
 
 new Vue({
     render: h => h(App),
+    router,
+    store
 }).$mount('#app')

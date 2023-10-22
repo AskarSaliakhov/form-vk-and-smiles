@@ -1,4 +1,4 @@
-# form-vk-and-smiles
+# kinopoisk
 
 ## Project setup
 ```
