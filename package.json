@@ -14,12 +14,12 @@
         "vue-toastification": "^1.7.14"
     },
     "devDependencies": {
+        "@alfsnd/vue-bootstrap-select": "^0.4.4",
         "@babel/core": "^7.12.16",
         "@babel/eslint-parser": "^7.12.16",
         "@vue/cli-plugin-babel": "~5.0.0",
         "@vue/cli-plugin-eslint": "~5.0.0",
-        "@vue/cli-service": "~5.0.0",
-        "@alfsnd/vue-bootstrap-select": "^0.4.4",
+        "@vue/cli-service": "^3.3.1",
         "@vue/composition-api": "^1.7.2",
         "@vueform/multiselect": "^2.6.2",
         "eslint": "^7.32.0",
