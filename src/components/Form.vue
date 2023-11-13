@@ -98,7 +98,7 @@
 <script>
 import Smiles from "@/components/Smiles";
 import Multiselect from "@vueform/multiselect/dist/multiselect.vue2.js";
-import DatePicker from "v-calendar/lib/components/date-picker.umd";
+import DatePicker from "v-calendar";
 
 
 export default {
@@ -558,6 +558,7 @@ textarea {
     border: none;
     background-color: #f2f3f5;
     padding-left: 10px;
+    color:#35495e;
 }
 
 .vc-container.vc-blue {
