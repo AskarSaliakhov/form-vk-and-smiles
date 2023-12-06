@@ -3,11 +3,10 @@ import App from './App.vue'
 import Multiselect from '@vueform/multiselect/dist/multiselect.vue2.js'
 import Toast,{POSITION} from "vue-toastification";
 import "vue-toastification/dist/index.css";
-import Calendar from 'v-calendar/lib/components/calendar.umd'
-import DatePicker from 'v-calendar/lib/components/date-picker.umd'
+import DatePicker from 'v-calendar'
 
 
-Vue.use(Multiselect,DatePicker,Calendar)
+Vue.use(Multiselect,DatePicker)
 
 Vue.use(Toast, {
     position: POSITION.BOTTOM_LEFT,
