@@ -3,6 +3,14 @@
 
 
 ![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen1.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen2.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen3.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen4.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen5.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen6.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen7.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen8.png)
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen9.png)
 
 ## Project setup
 ```
