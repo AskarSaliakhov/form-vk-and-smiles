@@ -1,5 +1,9 @@
 # form-vk-and-smiles
 
+
+
+![alt text](https://github.com/AskarSaliakhov/form-vk-and-smiles/blob/main/screenshots/screen1.png)
+
 ## Project setup
 ```
 npm install
